@@ -6,6 +6,7 @@
 - pip freeze shows packages YOU installed via pip.
 - CERN GitLab personal link: https://gitlab.cern.ch/huangx
 - LinkedIn link: https://www.linkedin.com/in/xing-huang-roy/
+- ResearchGate: https://www.researchgate.net/profile/Xing-Huang-33
 - Google Scholar link: https://scholar.google.com/citations?user=Mj9eFSsAAAAJ&hl=en
 
 <!---
